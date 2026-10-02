@@ -1,0 +1,66 @@
+[
+  {
+    "file": "red-panda.webp",
+    "photographer": "Jessica Weiller",
+    "sourceUrl": "https://unsplash.com/photos/red-panda-lying-on-brown-log-GAw5wFLVWVo",
+    "imageUrl": "https://images.unsplash.com/photo-1463436755683-3f805a9d1192"
+  },
+  {
+    "file": "elephant.webp",
+    "photographer": "James Hammond",
+    "sourceUrl": "https://unsplash.com/photos/elephant-during-daytime-FNVYos3W0AY",
+    "imageUrl": "https://images.unsplash.com/photo-1503286666306-61c9985f16cc"
+  },
+  {
+    "file": "tiger.webp",
+    "photographer": "Maddie",
+    "sourceUrl": "https://unsplash.com/photos/tiger-lying-on-ground-near-green-leaves-during-daytime-xWACNREoFKw",
+    "imageUrl": "https://images.unsplash.com/photo-1628960877991-bbff7199381f"
+  },
+  {
+    "file": "giraffe.webp",
+    "photographer": "Catherine Merlin",
+    "sourceUrl": "https://unsplash.com/photos/a-giraffe-stands-in-a-grassy-savanna-landscape-hviPydiWV1U",
+    "imageUrl": "https://images.unsplash.com/photo-1757361786389-0c12bdadc5b8"
+  },
+  {
+    "file": "penguin.webp",
+    "photographer": "lilartsy",
+    "sourceUrl": "https://unsplash.com/photos/black-and-white-penguin-mz1bt9Q6RRE",
+    "imageUrl": "https://images.unsplash.com/photo-1555874952-f1b5673c4ea1"
+  },
+  {
+    "file": "sloth.webp",
+    "photographer": "Simon Schwyter",
+    "sourceUrl": "https://unsplash.com/photos/a-sloth-sleeps-clinging-to-a-tree-branch-M5SH2SgW7aw",
+    "imageUrl": "https://images.unsplash.com/photo-1766487373699-8984226fe9f6"
+  },
+  {
+    "file": "forest-hero.webp",
+    "photographer": "Sebastian Unrau",
+    "sourceUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b",
+    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b"
+  },
+  {
+    "file": "savanna.webp",
+    "photographer": "Justin Hall",
+    "sourceUrl": "https://unsplash.com/photos/a-savanna-landscape-with-trees-and-dry-grass-p4lkTQr4ZKk",
+    "imageUrl": "https://images.unsplash.com/photo-1764778776014-0b00103a15aa"
+  },
+  {
+    "file": "polar.webp",
+    "photographer": "DD Wido",
+    "sourceUrl": "https://unsplash.com/photos/snowy-mountains-reflected-in-calm-icy-water-b0cXqLii6Gk",
+    "imageUrl": "https://images.unsplash.com/photo-1765936153277-69e8f18db760"
+  },
+  {
+    "file": "forest-film.mp4",
+    "title": "Trail Camera (elk at National Elk Refuge)",
+    "photographer": "USFWS Mountain-Prairie",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trail_Camera.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Trail_Camera.webm",
+    "license": "Public domain (work of a U.S. Fish and Wildlife Service employee in official duties)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Trail_Camera.webm#Licensing",
+    "modifications": "Converted from VP9 WebM to silent H.264 MP4 at 640x480; 10 seconds."
+  }
+]
