@@ -2,6 +2,8 @@
 
 純靜態 HTML、CSS 與 JavaScript 網站。
 
+🔗 **線上展示 (GitHub Pages)**：https://tkvs-dp.github.io/zoo/
+
 ## 提示詞
 
 在Zoo目錄下建立一個手機優先的「動物園探索」靜態網站。 
